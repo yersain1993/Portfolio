@@ -19,7 +19,7 @@ body{
     --white: #FFFFFF;
 }
 
-@media (max-width: 1395px){
+@media (max-width: 1820px){
     .responsive__menu {
         display: none;
     }
